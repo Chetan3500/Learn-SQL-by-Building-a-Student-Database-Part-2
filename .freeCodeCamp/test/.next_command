@@ -632,3 +632,7 @@ __vsc_prompt_cmd_original
 ./student_info.sh
 ./student_info.sh
 ./student_info.sh
+git remote -v
+git remote add new https://github.com/Chetan3500/Learn-SQL-by-Building-a-Student-Database-Part-2.git
+git push new main
+git add .
